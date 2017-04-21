@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(April 20,2017)
 
 ### Student Name:  
-(First and Last Name)
+(Miranda Smead)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(This project made me apply skills learned in this class to create a weather application.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://mirandajade97.github.io/WeatherChannel/.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (I learned how to use an Apixu API key.)
+2. (I learned how to apply the key to an application.)
+3. (I learned what a jumbotron is.)
